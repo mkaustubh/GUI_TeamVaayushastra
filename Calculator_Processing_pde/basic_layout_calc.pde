@@ -126,23 +126,29 @@ void draw() {
       switch(operator2) {
       case 1:
         result=input1/(input2*1.0);
+        press=result+"";
         break;
       case 2:
         result=input1*input2;
+        press=result+"";
         break;
       case 3:
         result=input1-input2;
+        press=result+"";
         break;
       case 4:
         result=input1+input2;
+        press=result+"";
         break;
       }
       fill(#BEC6F5);
       rect(50, 50, 825, 200, 20);
       fill(0);
       println(input1+" "+input2+" "+operator+" "+operator1+" "+operator2+" "+result);
-      text(input+operator+input2+operator1+result, 100, 185);
+      text(input1+""+operator+input2+operator1+result, 100, 185);
     } else if (operator!="") {
+      fill(#BEC6F5);
+      rect(50, 50, 825, 200, 20);
       fill(0);
       text(input+operator+press, 100, 185);
     }
