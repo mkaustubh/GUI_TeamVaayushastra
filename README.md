@@ -19,7 +19,7 @@ Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamV
 You may use Unfolding under the terms of the MIT License. See http://en.wikipedia.org/wiki/MIT_License for more information.
 
 
-Copyright (C) 2020 Kaustubh Mishra, and contributors
+Copyright (C) 2020 Kaustubh Mishra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
