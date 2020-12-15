@@ -15,6 +15,8 @@ Create interactive dynamic maps and geovisualizations.
 ### Download
 Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamVaayushastra/raw/gh-pages/Map_Processing_pde/Unfolding_for_processing_0.9.92.zip)
 
+![](https://github.com/mkaustubh/GUI_TeamVaayushastra/blob/gh-pages/Plane_Processing_Pde/data/planeYaw.gif)
+
 ### License
 You may use Unfolding under the terms of the MIT License. See http://en.wikipedia.org/wiki/MIT_License for more information.
 
