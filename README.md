@@ -25,9 +25,9 @@ Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamV
 **WHAT ARE _ROLL, PITCH, AND YAW?_**
 *Imagine three lines running through an airplane and intersecting at right angles at the airplane’s center of gravity.*
 
-*Rotation around the front-to-back axis is called **roll**.
-*Rotation around the side-to-side axis is called **pitch**.
-*Rotation around the vertical axis is called **yaw**.
+* Rotation around the front-to-back axis is called **roll**.
+* Rotation around the side-to-side axis is called **pitch**.
+* Rotation around the vertical axis is called **yaw**.
 
 ### MAINTAINING CONTROL
 * **The Ailerons Control Roll**
