@@ -29,6 +29,10 @@ Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamV
 * Rotation around the side-to-side axis is called **pitch**.
 * Rotation around the vertical axis is called **yaw**.
 
+![](https://github.com/mkaustubh/GUI_TeamVaayushastra/blob/gh-pages/Plane_Processing_Pde/data/planeRoll.gif)
+![](https://github.com/mkaustubh/GUI_TeamVaayushastra/blob/gh-pages/Plane_Processing_Pde/data/planePitch.gif)
+![](https://github.com/mkaustubh/GUI_TeamVaayushastra/blob/gh-pages/Plane_Processing_Pde/data/planeYaw.gif)
+
 ### MAINTAINING CONTROL
 * **The Ailerons Control Roll**
 On the outer rear edge of each wing, the two ailerons move in opposite directions, up and down, decreasing lift on one wing while increasing it on the other. This causes the airplane to roll to the left or right. To turn the airplane, the pilot uses the ailerons to tilt the wings in the desired direction.
