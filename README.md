@@ -17,7 +17,7 @@ Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamV
 
 ## Plane Motion
 
-###Roll, Pitch, and Yaw
+### Roll, Pitch, and Yaw
 
 **HOW IS _CONTROLLING AN AIRPLANE DIFFERENT THAN CONTROLLING A CAR_ OR BOAT?**
 *Stability and control are much more complex for an airplane, which can move freely in three dimensions, than for cars or boats, which only move in two. A change in any one of the three types of motion affects the other two*
@@ -29,7 +29,7 @@ Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamV
 *Rotation around the side-to-side axis is called **pitch**.
 *Rotation around the vertical axis is called **yaw**.
 
-###MAINTAINING CONTROL
+### MAINTAINING CONTROL
 * **The Ailerons Control Roll**
 On the outer rear edge of each wing, the two ailerons move in opposite directions, up and down, decreasing lift on one wing while increasing it on the other. This causes the airplane to roll to the left or right. To turn the airplane, the pilot uses the ailerons to tilt the wings in the desired direction.
 * **The Elevator Controls Pitch**
