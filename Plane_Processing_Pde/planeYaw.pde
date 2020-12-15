@@ -5,18 +5,17 @@ int angle;
 
 void setup() {
   size(300, 300);
-  img = loadImage("..//data//Pitch.png");
+  img = loadImage("..//data//Yaw.png");
   x = 150;
   y = 150;
   w = img.width;
   h = img.height;
   angle =0;
-    
 }
 
 void draw() {
   background(0);
-  ellipse(150,150,250,250);
+  ellipse(150, 150, 250, 250);
   stroke(0);
   line(0, y, width, y);
   line(x, 0, x, height);

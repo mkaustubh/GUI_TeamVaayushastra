@@ -1,20 +1,23 @@
+PImage img;
+
 int x, y, w, h;
 int angle;
 
 void setup() {
-  size(1000, 1000);
-  img = loadImage("YAW1.png");
+  size(300, 300);
+  img = loadImage("..//data//Roll.png");
   x = 150;
   y = 150;
   w = img.width;
   h = img.height;
   angle =0;
-  
+    
 }
 
 void draw() {
   background(0);
-  stroke(255);
+  ellipse(150,150,250,250);
+  stroke(0);
   line(0, y, width, y);
   line(x, 0, x, height);
   // Change the image mode so now we specify the image
@@ -31,5 +34,5 @@ void draw() {
   popMatrix(); // restore previous graphics matrix
   // Restore image mode back to default (optional)
   //imageMode(CORNER);
-  angle++;
+  angle = angle +1;
 }
