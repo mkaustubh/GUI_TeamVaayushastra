@@ -15,7 +15,29 @@ Create interactive dynamic maps and geovisualizations.
 ### Download
 Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamVaayushastra/raw/gh-pages/Map_Processing_pde/Unfolding_for_processing_0.9.92.zip)
 
-### License
+## Plane Motion
+
+###Roll, Pitch, and Yaw
+
+**HOW IS _CONTROLLING AN AIRPLANE DIFFERENT THAN CONTROLLING A CAR_ OR BOAT?**
+*Stability and control are much more complex for an airplane, which can move freely in three dimensions, than for cars or boats, which only move in two. A change in any one of the three types of motion affects the other two*
+
+**WHAT ARE _ROLL, PITCH, AND YAW?_**
+*Imagine three lines running through an airplane and intersecting at right angles at the airplane’s center of gravity.*
+
+*Rotation around the front-to-back axis is called **roll**.
+*Rotation around the side-to-side axis is called **pitch**.
+*Rotation around the vertical axis is called **yaw**.
+
+###MAINTAINING CONTROL
+* **The Ailerons Control Roll**
+On the outer rear edge of each wing, the two ailerons move in opposite directions, up and down, decreasing lift on one wing while increasing it on the other. This causes the airplane to roll to the left or right. To turn the airplane, the pilot uses the ailerons to tilt the wings in the desired direction.
+* **The Elevator Controls Pitch**
+On the horizontal tail surface, the elevator tilts up or down, decreasing or increasing lift on the tail. This tilts the nose of the airplane up and down.
+* **The Rudder Controls Yaw**
+On the vertical tail fin, the rudder swivels from side to side, pushing the tail in a left or right direction. A pilot usually uses the rudder along with the ailerons to turn the airplane.
+
+## License
 You may use Unfolding under the terms of the MIT License. See http://en.wikipedia.org/wiki/MIT_License for more information.
 
 Copyright (C) 2020 Kaustubh Mishra
