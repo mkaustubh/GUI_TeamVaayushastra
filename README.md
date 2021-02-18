@@ -11,6 +11,7 @@ Create interactive dynamic maps and geovisualizations.
 * <https://github.com/mkaustubh/GUI_TeamVaayushastra/tree/gh-pages/Map_Processing_pde/>
 
 ![Map](https://github.com/mkaustubh/GUI_TeamVaayushastra/blob/gh-pages/Map_Processing_pde/Map.gif)
+![](https://github.com/mkaustubh/GUI_TeamVaayushastra/blob/gh-pages/Map_Processing_pde/planeMap.gif)
 
 ### Download
 Get beta version of Unfolding from [here](https://github.com/mkaustubh/GUI_TeamVaayushastra/raw/gh-pages/Map_Processing_pde/Unfolding_for_processing_0.9.92.zip)
