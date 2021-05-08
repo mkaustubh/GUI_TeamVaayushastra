@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="842" viewBox="0 0 1440 842">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="347.486" height="348.472" transform="matrix(0.013, -1, 1, 0.013, 0, 347.442)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-mkaustubh">
+      <rect width="1440" height="842"/>
+    </clipPath>
+  </defs>
+  <g id="mkaustubh" clip-path="url(#clip-mkaustubh)">
+    <rect width="1440" height="842" fill="#fff"/>
+    <path id="Path_9" data-name="Path 9" d="M-1.014,35.8s2.7,82.332,86.528,39.1,277.16-135.552,128.44,12.854S368.082,35.17,332.93,164.879s-9.464,233.71,173.056,61.933,81.12-50.248,205.5-52.585,121.68-49.955,162.24-66.607,22.984,49.079,143.312,22.2S670.93,398.588,1004.874,286.408s308.236,131.38,95.336,58.344-134.894,180.02,341.009,33.2c62.362-19.24,0-684.992,0-684.992H0Z" transform="translate(0 307.042)" fill="#2e313b"/>
+    <g id="airplane" transform="translate(1349.07 138) rotate(90)" clip-path="url(#clip-path)">
+      <path id="Path_1" data-name="Path 1" d="M69.776,138.8,3.493,341.365l24.546,25.806,111.75-156.3,8.33,5.923L87.437,150.616l1.8-5.486L79.5,141.965Z" transform="translate(-1.116 -44.602)" fill="#ffc34d"/>
+      <path id="Path_2" data-name="Path 2" d="M220.644,138.439,384.065,31.669,359.64,5.989,150.419,67.681l2.9,9.785h0l2.9,9.784,5.153-1.52L222.9,148.864l5.609,8.536,7.356-4.806Z" transform="translate(-48.046 -1.924)" fill="#ff884d"/>
+      <path id="Path_3" data-name="Path 3" d="M392.13,386.112l66.889-34.9-16.286-19.224L347.2,322.47Z" transform="translate(-110.901 -103.623)" fill="#ff884d"/>
+      <path id="Path_4" data-name="Path 4" d="M374.06,406.978l-34.838,57.789-19.129-16.231-2.772-93.229Z" transform="translate(-101.357 -114.175)" fill="#ffc34d"/>
+      <path id="Path_5" data-name="Path 5" d="M35.559,39.41,73.721,70.645l84.1,70.029L312.253,320.108a.562.562,0,0,1-.245-.01l-12.6-2.316a41.531,41.531,0,0,1-18.646-8.614L222.1,261.417C163.754,211.024,118.215,164.93,69.835,107.308l-9.154-10.9s-25.53-56.613-25.122-57Z" transform="translate(-11.356 -12.664)" fill="#e6f7ff"/>
+      <path id="Path_6" data-name="Path 6" d="M107.7,60.89l10.431,9.689c55.151,51.221,98.9,99,146.283,159.764l46.408,63.228a41.02,41.02,0,0,1,6.851,14.765l2.986,12.448a.605.605,0,0,1,.01.3c-.18.181-.367.369-.553.544h-.007L142.053,135.481,81.529,72.209,60.151,44.141c.4-.382,47.549,16.749,47.549,16.749Z" transform="translate(-19.213 -14.182)" fill="#b3d9ff"/>
+      <path id="Path_7" data-name="Path 7" d="M22.945,15.146,68.619,62.895l-.055.054A40.565,40.565,0,0,0,56.794,83.487l-1.167,5.121L34.91,63.932A61.673,61.673,0,0,1,21.075,32.673l-1.245-8.935a9.9,9.9,0,0,1,1.934-7.41c.208-.222.422-.437.636-.651.18-.181.359-.356.546-.53Z" transform="translate(-6.303 -4.867)" fill="#9af"/>
+      <path id="Path_8" data-name="Path 8" d="M33.214,11.159l8.887,1.71A62.115,62.115,0,0,1,72.678,28.294L96.3,50.233l-5.19.89a40.739,40.739,0,0,0-20.981,10.43L24.454,13.8c.4-.382.815-.751,1.243-1.113a9.935,9.935,0,0,1,7.518-1.533Z" transform="translate(-7.811 -3.525)" fill="#8080ff"/>
+    </g>
+    <text id="Dream..Build..Fly_" data-name="Dream..Build..Fly!" transform="translate(310 419)" fill="#ffc34d" font-size="64" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Dream</tspan><tspan y="0" fill="#fcfffe">..</tspan><tspan y="0" fill="#8080ff">Build</tspan><tspan y="0" fill="#fcfffe">..</tspan><tspan y="0" fill="#ff884d">Fly</tspan><tspan y="0" fill="#fcfffe">!</tspan></text>
+  </g>
+</svg>

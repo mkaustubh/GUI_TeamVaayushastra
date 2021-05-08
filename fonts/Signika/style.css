@@ -1,0 +1,35 @@
+@font-face {
+   font-family: 'Signika';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///D:/RCVaayu/RCVaayu/fonts/Signika/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Signika';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///D:/RCVaayu/RCVaayu/fonts/Signika/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Signika';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///D:/RCVaayu/RCVaayu/fonts/Signika/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Signika';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///D:/RCVaayu/RCVaayu/fonts/Signika/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Signika';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/RCVaayu/RCVaayu/fonts/Signika/regular.ttf') format('truetype');
+}
